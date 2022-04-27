@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Faïçal Sawadogo" />
         <p className="description">
-          Welcome to my website
+          Coming soom ! 
         </p>
       </main>
 
